@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"projekakhir","l":"Admin"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"projekakhir","l":"beli"},{"p":"projekakhir","l":"buat_akun"},{"p":"projekakhir","l":"FrameUser"},{"p":"projekakhir","l":"koneksi"},{"p":"projekakhir","l":"login"},{"p":"projekakhir","l":"ProjekAkhir"},{"p":"projekakhir","l":"User"}];updateSearchResults();
